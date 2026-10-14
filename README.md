@@ -1,2 +1,2 @@
 # ITK_Batch_Utility
-These are all batch utility codes ,required for your Teamcenter Customization
+A collection of standalone C/C++ batch utility examples for Teamcenter PLM, covering data processing, object creation concepts, property handling, and error management.
